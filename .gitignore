@@ -1,0 +1,7 @@
+*.pyc
+__pycache__
+myvenv
+.idea
+djangogirl
+db.sqlite3
+.DS_Store
